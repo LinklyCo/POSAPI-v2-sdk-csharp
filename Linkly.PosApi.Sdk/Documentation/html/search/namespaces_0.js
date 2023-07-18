@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['authentication_0',['Authentication',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_authentication.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['common_1',['Common',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_common.html',1,'Linkly::PosApi::Sdk']]],
+  ['configuremerchant_2',['ConfigureMerchant',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_configure_merchant.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['display_3',['Display',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_display.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['linkly_4',['Linkly',['../namespace_linkly.html',1,'']]],
+  ['logon_5',['Logon',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_logon.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['models_6',['Models',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html',1,'Linkly::PosApi::Sdk']]],
+  ['posapi_7',['PosApi',['../namespace_linkly_1_1_pos_api.html',1,'Linkly']]],
+  ['querycard_8',['QueryCard',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_query_card.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['receipt_9',['Receipt',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_receipt.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['reprintreceipt_10',['ReprintReceipt',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_reprint_receipt.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['result_11',['Result',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_result.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['sdk_12',['Sdk',['../namespace_linkly_1_1_pos_api_1_1_sdk.html',1,'Linkly::PosApi']]],
+  ['sendkey_13',['SendKey',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_send_key.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['service_14',['Service',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_service.html',1,'Linkly::PosApi::Sdk']]],
+  ['settlement_15',['Settlement',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_settlement.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['status_16',['Status',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_status.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['transaction_17',['Transaction',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction.html',1,'Linkly::PosApi::Sdk::Models']]]
+];

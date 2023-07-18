@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['pairingrequest_0',['PairingRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_authentication_1_1_pairing_request.html',1,'Linkly::PosApi::Sdk::Models::Authentication']]],
+  ['pairingresponse_1',['PairingResponse',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_authentication_1_1_pairing_response.html',1,'Linkly::PosApi::Sdk::Models::Authentication']]],
+  ['percentagesurcharge_2',['PercentageSurcharge',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_percentage_surcharge.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['pinpadoptionflags_3',['PinPadOptionFlags',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_status_1_1_pin_pad_option_flags.html',1,'Linkly::PosApi::Sdk::Models::Status']]],
+  ['posapirequest_4',['PosApiRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_pos_api_request.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['posapiresponse_5',['PosApiResponse',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_pos_api_response.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['posapiresponsewithresult_6',['PosApiResponseWithResult',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_pos_api_response_with_result.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['posapiservice_7',['PosApiService',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_service_1_1_pos_api_service.html',1,'Linkly::PosApi::Sdk::Service']]],
+  ['posapiserviceoptions_8',['PosApiServiceOptions',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_service_1_1_pos_api_service_options.html',1,'Linkly::PosApi::Sdk::Service']]],
+  ['posvendordetails_9',['PosVendorDetails',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_service_1_1_pos_vendor_details.html',1,'Linkly::PosApi::Sdk::Service']]],
+  ['preauthcancelrequest_10',['PreAuthCancelRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_cancel_request.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['preauthcompletionrequest_11',['PreAuthCompletionRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_completion_request.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['preauthextendrequest_12',['PreAuthExtendRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_extend_request.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['preauthinquiryrequest_13',['PreAuthInquiryRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_inquiry_request.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['preauthmanipulationrequest_14',['PreAuthManipulationRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_manipulation_request.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['preauthmanipulationrequestvalidator_15',['PreAuthManipulationRequestValidator',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_manipulation_request_validator.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['preauthpartialcancelrequest_16',['PreAuthPartialCancelRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_partial_cancel_request.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['preauthrequest_17',['PreAuthRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_request.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['preauthsummaryrequest_18',['PreAuthSummaryRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_summary_request.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['preauthtopuprequest_19',['PreAuthTopUpRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_top_up_request.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]],
+  ['purchaserequest_20',['PurchaseRequest',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_purchase_request.html',1,'Linkly::PosApi::Sdk::Models::Transaction']]]
+];

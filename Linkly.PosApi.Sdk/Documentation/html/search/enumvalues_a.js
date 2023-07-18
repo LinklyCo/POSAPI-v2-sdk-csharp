@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['p66_0',['P66',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#acbe69037fe60bd25ab2ddcb6347452fca89c5b357b092d47df6ab87c9e6773c68',1,'Linkly::PosApi::Sdk::Models']]],
+  ['paypassnotused_1',['PayPassNotUsed',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a4c4da5bed23f5e89875cce798a2d9211afad59e2eb9b403036fc9a534a2a8daed',1,'Linkly::PosApi::Sdk::Models']]],
+  ['paypassused_2',['PayPassUsed',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a4c4da5bed23f5e89875cce798a2d9211adffa7fad63b707633c2b9d2dc7167b04',1,'Linkly::PosApi::Sdk::Models']]],
+  ['pinpad_3',['PinPad',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a3d5be5775b6a1b9f9f17d04275b7485ea15cdc320762fbd89a04b9648339e7c16',1,'Linkly.PosApi.Sdk.Models.PinPad()'],['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a1475140718f7ca1e584ca1784d4e64d8a15cdc320762fbd89a04b9648339e7c16',1,'Linkly.PosApi.Sdk.Models.PinPad()']]],
+  ['pos_4',['POS',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a1475140718f7ca1e584ca1784d4e64d8a1903f54cd46d54aa3200a4508c948db0',1,'Linkly::PosApi::Sdk::Models']]],
+  ['poskeyed_5',['PosKeyed',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a3d5be5775b6a1b9f9f17d04275b7485eafd1a73dc720faec1c1b166268eefc8db',1,'Linkly::PosApi::Sdk::Models']]],
+  ['posswiped_6',['PosSwiped',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a3d5be5775b6a1b9f9f17d04275b7485ea5f46bc5a02aec93beb8a53e4cada2baf',1,'Linkly::PosApi::Sdk::Models']]],
+  ['preauth_7',['PreAuth',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a2c712b3b38a97bac0d5eaf518e905268a22a06f72a2c618c46401004ea2dc614d',1,'Linkly::PosApi::Sdk::Models']]],
+  ['preauthcancel_8',['PreAuthCancel',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a2c712b3b38a97bac0d5eaf518e905268a9aa03c0ede28b9f7b59d1a318c4154eb',1,'Linkly::PosApi::Sdk::Models']]],
+  ['preauthcomplete_9',['PreAuthComplete',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a2c712b3b38a97bac0d5eaf518e905268aec7763b67015393cc4a0ddfbb48e9952',1,'Linkly::PosApi::Sdk::Models']]],
+  ['preauthextend_10',['PreAuthExtend',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a2c712b3b38a97bac0d5eaf518e905268a5afc5618e9a2e2fb92336fd7fcce2e24',1,'Linkly::PosApi::Sdk::Models']]],
+  ['preauthinquiry_11',['PreAuthInquiry',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a2c712b3b38a97bac0d5eaf518e905268a1a82b2f3b7e95beef576ad285d1c7912',1,'Linkly::PosApi::Sdk::Models']]],
+  ['preauthpartialcancel_12',['PreAuthPartialCancel',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a2c712b3b38a97bac0d5eaf518e905268a95c58d724fdb3312699af07bd078e4e9',1,'Linkly::PosApi::Sdk::Models']]],
+  ['preauthtopup_13',['PreAuthTopUp',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a2c712b3b38a97bac0d5eaf518e905268a65c9ffe659ba30fea49a52b822e0983a',1,'Linkly::PosApi::Sdk::Models']]],
+  ['presettlement_14',['PreSettlement',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a8e565303766e7e887a176da8c614755fae6767acd723e8824a2645c08b48e9a05',1,'Linkly::PosApi::Sdk::Models']]],
+  ['preswipe_15',['Preswipe',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a41124c8dc19fa0ed705b0282a85923acab9f2948bd3efb191295e363b36b4e332',1,'Linkly::PosApi::Sdk::Models']]],
+  ['preswipe_16',['PreSwipe',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#acac94b49c8b9b3c88a51c838f38b61f4a4cd96cb0691719df18bd00101618da8b',1,'Linkly::PosApi::Sdk::Models']]],
+  ['preswipespecial_17',['PreSwipeSpecial',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#acac94b49c8b9b3c88a51c838f38b61f4a4b93aedad47d89311173eff92558a660',1,'Linkly::PosApi::Sdk::Models']]],
+  ['purchase_18',['Purchase',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a2c712b3b38a97bac0d5eaf518e905268a76b6a47a02685d51794b9fdb095512e5',1,'Linkly::PosApi::Sdk::Models']]]
+];

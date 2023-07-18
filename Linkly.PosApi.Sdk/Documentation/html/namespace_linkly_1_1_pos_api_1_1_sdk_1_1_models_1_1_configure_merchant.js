@@ -1,0 +1,5 @@
+var namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_configure_merchant =
+[
+    [ "ConfigureMerchantRequest", "class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_configure_merchant_1_1_configure_merchant_request.html", "class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_configure_merchant_1_1_configure_merchant_request" ],
+    [ "ConfigureMerchantResponse", "class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_configure_merchant_1_1_configure_merchant_response.html", "class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_configure_merchant_1_1_configure_merchant_response" ]
+];

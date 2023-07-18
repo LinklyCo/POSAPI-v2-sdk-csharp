@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['ibaserequest_0',['IBaseRequest',['../interface_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_i_base_request.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['ibaseresponse_1',['IBaseResponse',['../interface_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_i_base_response.html',1,'Linkly::PosApi::Sdk::Models']]],
+  ['infrared_2',['Infrared',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#ac982d1df12ec0b2f37987f87861db535ade1c318db60bc972858577273c2d1ddd',1,'Linkly::PosApi::Sdk::Models']]],
+  ['ingenicoi3070_3',['Ingenicoi3070',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a4401acee57e059b97f00baeafe2bd035ad5c41986082c4bfbc99141331ed27f1b',1,'Linkly::PosApi::Sdk::Models']]],
+  ['ingenicoi5110_4',['Ingenicoi5110',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a4401acee57e059b97f00baeafe2bd035a7228f8be0dc4f9d491c58b025c5335a9',1,'Linkly::PosApi::Sdk::Models']]],
+  ['ingeniconpt710_5',['IngenicoNPT710',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a4401acee57e059b97f00baeafe2bd035a28adfba0d88586f711b4d782bd54c47c',1,'Linkly::PosApi::Sdk::Models']]],
+  ['ingenicopx328_6',['IngenicoPX328',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a4401acee57e059b97f00baeafe2bd035a6cff86fe793b49597c8bb48086108688',1,'Linkly::PosApi::Sdk::Models']]],
+  ['inputtype_7',['InputType',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#ac08bbcbe02a0264b028feacc684b4352',1,'Linkly::PosApi::Sdk::Models']]],
+  ['installment_8',['Installment',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a3d5be5775b6a1b9f9f17d04275b7485ea459f93c30d7bc374abe95e0d8a1c66b0',1,'Linkly::PosApi::Sdk::Models']]],
+  ['internal_9',['Internal',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a6b4c3bcfce330636641a687db230282daafbf0897a5a83fdd873dfb032ec695d3',1,'Linkly::PosApi::Sdk::Models']]],
+  ['internet_10',['Internet',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a3d5be5775b6a1b9f9f17d04275b7485eac8205c7636e728d448c2774e6a4a944b',1,'Linkly::PosApi::Sdk::Models']]],
+  ['iposapieventlistener_11',['IPosApiEventListener',['../interface_linkly_1_1_pos_api_1_1_sdk_1_1_service_1_1_i_pos_api_event_listener.html',1,'Linkly::PosApi::Sdk::Service']]],
+  ['iposapiservice_12',['IPosApiService',['../interface_linkly_1_1_pos_api_1_1_sdk_1_1_service_1_1_i_pos_api_service.html',1,'Linkly::PosApi::Sdk::Service']]],
+  ['ispreprint_13',['IsPrePrint',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_receipt_1_1_receipt_response.html#af4996344c28e7bcb87386f7d2dd06b4b',1,'Linkly::PosApi::Sdk::Models::Receipt::ReceiptResponse']]],
+  ['istrack1available_14',['IsTrack1Available',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_query_card_1_1_query_card_response.html#a43faf4136f58fd74ce7ec1703f3e64fc',1,'Linkly::PosApi::Sdk::Models::QueryCard::QueryCardResponse']]],
+  ['istrack2available_15',['IsTrack2Available',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_query_card_1_1_query_card_response.html#a1d79e156a70a3213052d75bf64a38716',1,'Linkly::PosApi::Sdk::Models::QueryCard::QueryCardResponse']]],
+  ['istrack3available_16',['IsTrack3Available',['../class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_query_card_1_1_query_card_response.html#a62fa2485c612e785790efe35b35ca563',1,'Linkly::PosApi::Sdk::Models::QueryCard::QueryCardResponse']]],
+  ['ivalidatable_17',['IValidatable',['../interface_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_i_validatable.html',1,'Linkly::PosApi::Sdk::Models']]]
+];

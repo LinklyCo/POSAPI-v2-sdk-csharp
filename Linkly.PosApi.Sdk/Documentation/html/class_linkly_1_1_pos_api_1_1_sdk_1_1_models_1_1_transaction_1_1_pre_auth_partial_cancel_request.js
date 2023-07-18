@@ -1,0 +1,4 @@
+var class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_partial_cancel_request =
+[
+    [ "Validate", "class_linkly_1_1_pos_api_1_1_sdk_1_1_models_1_1_transaction_1_1_pre_auth_partial_cancel_request.html#aeedc6a12f948a883e183306cc14810bd", null ]
+];

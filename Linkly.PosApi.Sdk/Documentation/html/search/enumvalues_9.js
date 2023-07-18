@@ -1,0 +1,4 @@
+var searchData=
+[
+  ['notset_0',['NotSet',['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a2c712b3b38a97bac0d5eaf518e905268afaf396cbd83927b72a84d2616fac76ff',1,'Linkly.PosApi.Sdk.Models.NotSet()'],['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a71095bfe955eafd7ecad155c1040c313afaf396cbd83927b72a84d2616fac76ff',1,'Linkly.PosApi.Sdk.Models.NotSet()'],['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#acbe69037fe60bd25ab2ddcb6347452fcafaf396cbd83927b72a84d2616fac76ff',1,'Linkly.PosApi.Sdk.Models.NotSet()'],['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a2ad1718ec8a970dbac58c13983221da4afaf396cbd83927b72a84d2616fac76ff',1,'Linkly.PosApi.Sdk.Models.NotSet()'],['../namespace_linkly_1_1_pos_api_1_1_sdk_1_1_models.html#a4c4da5bed23f5e89875cce798a2d9211afaf396cbd83927b72a84d2616fac76ff',1,'Linkly.PosApi.Sdk.Models.NotSet()']]]
+];
