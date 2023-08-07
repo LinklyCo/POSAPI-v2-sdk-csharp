@@ -10,12 +10,7 @@
     <OutputType>Library</OutputType>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <VersionPrefix>1.0.0</VersionPrefix>
-    <VersionSuffix></VersionSuffix>
-    <!-- For local/debug builds -->
-    <VersionSuffix Condition=" '$(Configuration)' == 'Debug' ">debug</VersionSuffix>
-    <!-- For pipeline builds -->
-    <VersionSuffix Condition=" '$(Configuration)' == 'Release' ">$(Build_BuildID)</VersionSuffix>
+    <VersionPrefix>1.0.0.$(Build_BuildID)</VersionPrefix>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Title>POS API SDK</Title>
@@ -23,7 +18,7 @@
     <Description>SDK for developing POS applications using Linkly's backend</Description>
     <Copyright>Linkly 2023</Copyright>
     <PackageReleaseNotes>Initial SDK release for Linkly Cloud API</PackageReleaseNotes>
-    <RepositoryUrl>https://github.com/LinklyCo/v2-sdk-csharp</RepositoryUrl>
+    <RepositoryUrl>https://github.com/LinklyCo/POSAPI-v2-sdk-csharp</RepositoryUrl>
     
   </PropertyGroup>
 

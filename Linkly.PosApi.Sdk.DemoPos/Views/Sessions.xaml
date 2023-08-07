@@ -111,7 +111,7 @@
 
                 <WrapPanel Margin="4">
                     <Label Content="POS URL:"/>
-                    <TextBox x:Name="txtPosUrl" VerticalContentAlignment="Center" Text="https://devtest-posapiv2.azurewebsites.net/" Width="250"/>
+					<TextBox x:Name="txtPosUrl" VerticalContentAlignment="Center" Text="https://rest.pos.sandbox.cloud.pceftpos.com" Width="250"/>
                 </WrapPanel>
                 <WrapPanel Margin="4">
                     <Label Content="Username:"/>

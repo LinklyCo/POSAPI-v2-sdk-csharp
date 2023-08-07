@@ -12,10 +12,11 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D3F7C2AC-4B9B-4D53-85F0-33B3EA315256}"
 	ProjectSection(SolutionItems) = preProject
 		azure-pipelines.yml = azure-pipelines.yml
+		HOWTO.md = HOWTO.md
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linkly.PosApi.Sdk.HowToBuilder", "Linkly.PosApi.Sdk.HowToBuilder\Linkly.PosApi.Sdk.HowToBuilder.csproj", "{FFD545D8-1B8C-4A6A-9710-854011EA3127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linkly.PosApi.Sdk.HowToBuilder", "Linkly.PosApi.Sdk.HowToBuilder\Linkly.PosApi.Sdk.HowToBuilder.csproj", "{FFD545D8-1B8C-4A6A-9710-854011EA3127}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

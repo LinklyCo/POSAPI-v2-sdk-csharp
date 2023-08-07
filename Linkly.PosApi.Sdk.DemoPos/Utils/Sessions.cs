@@ -22,7 +22,7 @@ internal class Lane
     public string Secret { get; set; } = string.Empty;
 
     public string AuthEndpoint { get; set; } = "https://auth.sandbox.cloud.pceftpos.com";
-    public string PosEndpoint { get; set; } = "https://devtest-posapiv2.azurewebsites.net";
+    public string PosEndpoint { get; set; } = "https://rest.pos.sandbox.cloud.pceftpos.com";
     public bool LastActive { get; set; } = true;
     public IList<TransactionSessions> Transactions { get; set; } = new List<TransactionSessions>();
 }

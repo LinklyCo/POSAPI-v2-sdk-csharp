@@ -14,11 +14,11 @@ namespace Linkly.PosApi.Sdk.Service
         /// </summary>
         /// <param name="authApiBaseUri">
         /// Base URI of the Auth API service.
-        /// Example: <example>http://auth.cloud.pceftpos.com</example>
+        /// Example: <example>https://auth.sandbox.cloud.pceftpos.com</example>
         /// </param>
         /// <param name="posApiBaseUri">
         /// Base URI of the POS API service.
-        /// Example: <example>http://pos.cloud.pceftpos.com</example>
+        /// Example: <example>https://rest.pos.sandbox.cloud.pceftpos.com</example>
         /// </param>
         public ApiServiceEndpoint(Uri authApiBaseUri, Uri posApiBaseUri)
         {
