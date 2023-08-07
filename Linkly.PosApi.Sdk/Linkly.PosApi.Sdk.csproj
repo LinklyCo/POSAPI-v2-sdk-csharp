@@ -18,6 +18,7 @@
     <Description>SDK for developing POS applications using Linkly's backend</Description>
     <Copyright>Linkly 2023</Copyright>
     <PackageReleaseNotes>Initial SDK release for Linkly Cloud API</PackageReleaseNotes>
+    <ProjectUrl>https://linkly.com.au/resources-support/developer-apis#instore-api</ProjectUrl>
     <RepositoryUrl>https://github.com/LinklyCo/POSAPI-v2-sdk-csharp</RepositoryUrl>
     
   </PropertyGroup>
